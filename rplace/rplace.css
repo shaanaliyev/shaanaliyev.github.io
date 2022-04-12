@@ -1,0 +1,13 @@
+head,
+body {
+  margin: 0;
+}
+.canvasArea {
+  position: relative;
+}
+.canvasArea > canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: none;
+}
